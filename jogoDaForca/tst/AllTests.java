@@ -1,4 +1,4 @@
-﻿package jogoDaForca.tst;
+package jogoDaForca.tst;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

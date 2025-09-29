@@ -1,4 +1,4 @@
-﻿package jogoDaForca.tst;
+package jogoDaForca.tst;
 
 /**
  * Interface criada para a definição da categoria de testes do tipo "Funcional"

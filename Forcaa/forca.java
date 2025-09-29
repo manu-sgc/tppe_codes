@@ -1,7 +1,7 @@
-public class Forca {
+public class forca {
     private final String palavra;
 
-    public Forca(String palavra) {
+    public forca(String palavra) {
         this.palavra = palavra;
     }
 

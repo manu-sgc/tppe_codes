@@ -21,7 +21,7 @@ public class ForcaTest {
     private final char caractere;
     private final int ocorrencias;
     private final String revelada;
-    private final Forca forca = new Forca("arara");
+    private final forca forca = new forca("arara");
 
     public ForcaTest(char caractere, int ocorrencias, String revelada) {
         this.caractere = caractere;

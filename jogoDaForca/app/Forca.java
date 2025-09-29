@@ -1,4 +1,4 @@
-﻿package jogoDaForca.app;
+package jogoDaForca.app;
 
 import jogoDaForca.exceptions.CaractereInvalidoException;
 

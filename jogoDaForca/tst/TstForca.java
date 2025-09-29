@@ -1,4 +1,4 @@
-﻿package jogoDaForca.tst;
+package jogoDaForca.tst;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
