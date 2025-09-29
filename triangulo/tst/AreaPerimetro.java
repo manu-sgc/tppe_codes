@@ -12,7 +12,6 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
-import jogoDaForca.tst.Funcional;
 import triangulo.app.Triangulo;
 import triangulo.exceptions.NaoEhTrianguloException;
 

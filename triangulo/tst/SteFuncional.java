@@ -1,4 +1,4 @@
-﻿package triangulo.tst;
+package triangulo.tst;
 
 import org.junit.experimental.categories.Categories;
 import org.junit.experimental.categories.Categories.IncludeCategory;

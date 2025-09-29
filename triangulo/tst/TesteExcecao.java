@@ -1,4 +1,4 @@
-﻿package triangulo.tst;
+package triangulo.tst;
 
 import java.util.Arrays;
 import java.util.Collection;
